@@ -1,0 +1,7 @@
+## Interface: 120000, 120001
+## Title: No Outline Damage Meter
+## Notes: Removes outline from ALL Blizzard Damage Meter text + adds 1px shadow (x=1 y=-1)
+## Version: 1.0
+## Author: Dopa
+
+NoOutlineDamageMeter.lua
